@@ -1,2 +1,2 @@
-# landingpage
-final project
+# pixelart
+This is Donalds project for udacity
